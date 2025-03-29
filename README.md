@@ -1,1 +1,1 @@
-# qt6_static
+# qt6 static
